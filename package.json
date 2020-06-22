@@ -1,0 +1,27 @@
+{
+  "name": "mongoscrapeinvaders",
+  "version": "1.0.0",
+  "description": "Unit 18 Homework Assignment - UPENN Coding Bootcamp",
+  "main": "article.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelhernandez27/MongoScrapeInvaders.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelhernandez27/MongoScrapeInvaders/issues"
+  },
+  "homepage": "https://github.com/michaelhernandez27/MongoScrapeInvaders#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "mongoose": "^5.9.20"
+  }
+}
